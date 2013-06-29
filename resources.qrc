@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/qml">
+        <file>qml/QtQuick1/main.qml</file>
+        <file>qml/QtQuick1/Ball.qml</file>
+        <file>qml/QtQuick1/Block.qml</file>
+        <file>qml/QtQuick1/PlayerBar.qml</file>
+        <file>qml/QtQuick1/UI.js</file>
+        <file>qml/QtQuick2/Ball.qml</file>
+        <file>qml/QtQuick2/Block.qml</file>
+        <file>qml/QtQuick2/main.qml</file>
+        <file>qml/QtQuick2/PlayerBar.qml</file>
+        <file>qml/QtQuick2/UI.js</file>
+        <file>qml/QtQuick2/GameArea.qml</file>
+        <file>qml/QtQuick2/Splashscreen.qml</file>
+        <file>qml/QtQuick1/GameArea.qml</file>
+        <file>qml/QtQuick1/Splashscreen.qml</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>resources/images/logo.png</file>
+    </qresource>
+</RCC>
